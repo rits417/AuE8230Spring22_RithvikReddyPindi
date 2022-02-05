@@ -2,5 +2,5 @@
 
 Rithvik Reddy Pindi
 
-Rep to for Autonomy: Science & Systems course
+Repository for Autonomy: Science & Systems course
 
