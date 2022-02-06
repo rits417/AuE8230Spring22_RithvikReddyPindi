@@ -1,6 +1,7 @@
 # AuE8230Spring22_RithvikReddyPindi
 
-Rithvik Reddy Pindi
+Hi. This is Rithvik Reddy.
 
 Repository for Autonomy: Science & Systems course
+
 
