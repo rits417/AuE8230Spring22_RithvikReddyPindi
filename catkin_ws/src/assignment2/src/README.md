@@ -2,6 +2,7 @@ There are 3 python files in the scrips folder inside the assignment2 package. I 
 
 1. Circle.py : turtlesim is moving in circle. 
    Video link: https://clemson-my.sharepoint.com/:v:/g/personal/rpindi_clemson_edu/EV7Sn_WxHABJkgsNLyaPa_EBNhTca5dMiG9j6WYs1UKe4w?e=uAiMyn
+   Screenshot: https://github.com/rits417/AuE8230Spring22_RithvikReddyPindi/issues/1#issue-1130026114
    
 2. Square_openloop.py: the turtle is moving move in a square of 2x2 units with 0.2 linearvelocity and 0.2 rad/s angular velocity.
   Video link: https://clemson-my.sharepoint.com/:v:/g/personal/rpindi_clemson_edu/EcIRFZ9ThEFNqv81j_dqgEQB0exADYs5A-qq-WIm_X76jQ?e=l6A2MC
