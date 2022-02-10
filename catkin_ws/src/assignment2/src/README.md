@@ -13,5 +13,6 @@ There are 3 python files in the scrips folder inside the assignment2 package. I 
    The coordinate points of the square are predefined in the program. The turtle moves from
   (5,5) ->(8,5) -> (8,8) -> (5,8) -> (5,5).
     Video link: https://clemson-my.sharepoint.com/:v:/g/personal/rpindi_clemson_edu/ET-M81JV5ZpBv6lxF7iB-5sBBd88nsC1AbLGrC7x8G5bAw?e=CphrWy
+    Screenshot: https://github.com/rits417/AuE8230Spring22_RithvikReddyPindi/issues/3#issue-1130033987
 
 
