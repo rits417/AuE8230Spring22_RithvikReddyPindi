@@ -1,2 +1,0 @@
-
--DCATKIN_DEVEL_PREFIX=/home/rithvikreddy/git_workspace/AuE8230Spring22_RithvikReddyPindi/assignment2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rithvikreddy/git_workspace/AuE8230Spring22_RithvikReddyPindi/assignment2_ws/install -G Unix Makefiles
