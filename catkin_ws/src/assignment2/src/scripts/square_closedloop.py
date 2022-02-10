@@ -121,7 +121,6 @@ def desiredyaw(desired_yaw):
         
 if __name__ == '__main__':
     try:
-        #move in square loop
         rospy.init_node('open_loop_square', anonymous = True)
         print('closed loop square node has been initiated')
         rate = rospy.Rate(10)
@@ -139,5 +138,4 @@ if __name__ == '__main__':
         desiredyaw(3*PI/2)
         gotogoal(5,5,1)
         rate.sleep()
-        #print('Completed')   
     except rospy.ROSInterruptException: pass
